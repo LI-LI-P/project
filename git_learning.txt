@@ -1,0 +1,2 @@
+LEARNING SOME BASIC UNIX COMMANDS
+trying the notepad command 1
